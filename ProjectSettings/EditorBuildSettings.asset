@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HumanVSHuman.unity
+    guid: d2172b4d005c6414c9c1811579cf8b70
+  - enabled: 1
+    path: Assets/Scenes/HumanVSAI.unity
+    guid: fa27262cc17db5c4186307147121e868
+  - enabled: 1
+    path: Assets/Scenes/AI vs AI.unity
+    guid: 81ae6d9af973e5340bb2442a690c3aa5
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0ac44ae2fe84b9047bc07eaa7a7c93f2
+  m_configObjects: {}
